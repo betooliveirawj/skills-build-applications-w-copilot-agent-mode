@@ -1,0 +1,4 @@
+import octofitLogo from '../assets/octofitapp-small.png';
+
+// Place this file as public/favicon.ico or public/favicon.png
+// and reference it in public/index.html
